@@ -1,2 +1,2 @@
-# InternetSitesi2
+# InternetSitesiÖdev2
 https://www.patika.dev
